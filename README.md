@@ -26,5 +26,5 @@
 ![](https://img.shields.io/badge/Firebase-039BE5.svg?&style=flat-square&logo=firebase)
 
 ## Statistics
-![Your Github Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Your Github Stats](https://github-readme-stats.vercel.app/api?username=metufann&show_icons=true&theme=tokyonight)
 
