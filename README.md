@@ -12,7 +12,7 @@ I enjoy solving complex technical problems and collaborating on innovative proje
 
 ## 💻 Tech Stack
 **Frontend:** Next.js · React.js · JavaScript  
-**Backend:** Spring Boot · Java · REST APIs  
+**Backend:** Spring Boot · Java · REST APIs  · Pyhton
 **Databases:** PostgreSQL · MySQL  
 **Tools & Practices:** Docker · Git · Agile/Scrum · JIRA · Selenium · CI/CD  
 
